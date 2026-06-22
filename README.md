@@ -4,7 +4,9 @@
 
 # Hi 👋, I'm Aakash Kanukolanu
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Backend+Engineer;Data+Engineering+Intern+at+ClavePrep;Founding+Engineer+at+Clave+Guidance;Python+%7C+TypeScript+%7C+PostgreSQL+%7C+AWS;Building+Systems+That+Scale" />
+### Data Engineering Intern @ ClavePrep
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Backend+Engineer;Data+Engineering+Intern+at+ClavePrep;Python+%7C+TypeScript+%7C+PostgreSQL+%7C+AWS;Building+Scalable+Backend+Systems;Turning+Data+Into+Useful+Products" />
 
 </div>
 
@@ -18,12 +20,12 @@
 
 ## 🚀 About Me
 
-* 💼 Data Engineering Intern @ ClavePrep
-* 🚀 Founding Engineer @ Clave Guidance
-* 🔥 Building backend systems, ETL pipelines, and AI-powered products
+* 💼 Data Engineering Intern @ **ClavePrep**
+* 🔥 Building backend services, automation workflows, and data pipelines
+* 🐍 Working with **Python**, **TypeScript**, **PostgreSQL**, **AWS**, and **Docker**
 * 🤖 Interested in Backend Engineering, Data Engineering, AI Systems, and Distributed Systems
 * 🌱 Currently learning System Design and scalable architectures
-* ⚡ Processing 23,000+ recruiter jobs and 17,000+ companies through automation pipelines
+* ⚡ Contributed to processing **23,924+ recruiter job posts** and **17,463+ companies** through automation and ETL workflows
 
 ---
 
@@ -89,25 +91,13 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AakashK01&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AakashK01&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🚀 Current Mission
 
 ```text
-Building Clave Guidance
-Scaling Data Pipelines
-Learning Distributed Systems
-Breaking Backend So It Becomes Stronger
+Building scalable backend systems
+Developing data pipelines and ETL workflows
+Learning distributed systems
+Exploring AI-powered applications
 ```
 
 ---
@@ -116,16 +106,11 @@ Breaking Backend So It Becomes Stronger
 
 ### 🎓 Clave Guidance
 
-AI-powered JEE counselling platform featuring:
-
-* College Prediction
-* Cutoff Analytics
-* Institute Insights
-* Admission Intelligence
+AI-powered counselling platform built using Python, PostgreSQL, AWS, ETL Pipelines, and Web Scraping.
 
 ### 💼 Live Roles
 
-Large-scale recruiter job aggregation system.
+Large-scale recruiter job aggregation platform processing thousands of jobs and companies daily.
 
 ### 🔗 URL Shortener Service
 
@@ -141,13 +126,23 @@ Scalable URL shortening backend service.
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn
-* 📧 Email
-* 🌐 Portfolio
+<p align="left">
+<a href="https://www.linkedin.com/in/aakash-kanukolanu/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="35" width="35" />
+</a>
+
+<a href="mailto:aakashkanukolanu@gmail.com">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="35" width="35" />
+</a>
+</p>
+
+* 💼 LinkedIn: https://www.linkedin.com/in/aakash-kanukolanu/
+* 📧 Email: [aakashkanukolanu@gmail.com](mailto:aakashkanukolanu@gmail.com)
 
 ---
 
 
-</br>
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=AakashK01&label=Profile%20Views&color=0e75b6&style=flat" />
